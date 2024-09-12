@@ -14,6 +14,6 @@ public class RectanglePerimeter
 		int width = userInput.nextInt();
 		int perimeter = 2 * (length) + 2 * (width);
 		
-		 System.out.print("The area of the rectangle is:"+ perimeter);
+		System.out.print("The perimeter of the rectangle is:"+ perimeter);
 	}
 } 
