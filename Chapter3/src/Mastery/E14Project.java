@@ -51,4 +51,8 @@ Candidate-----Votes--Percentage
 Awbrey-------616618------49.0%
 Martinez-----623926------50.0%
 Total Votes:1240544
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> branch 'master' of https://github.com/JohnJonesGlazer15/CS20P2F2024.git
