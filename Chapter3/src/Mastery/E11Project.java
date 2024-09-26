@@ -1,5 +1,5 @@
 /*
-Program: java          Date: 9/13/2024
+Program: java          Date: 9/16/2024
 
 Purpose: To create an application that analyzes the time taken for a java project as precentages
 
@@ -48,5 +48,12 @@ public class E11Project {
 
 /*
 Screen Dump
-
+Please enter the designing time:240
+Please enter the coding time:120
+Please enter the debugging time:30
+Please enter the testing time:30
+Designing: 57%
+Coding: 28%
+Debugging: 7%
+testing: 7%
 */

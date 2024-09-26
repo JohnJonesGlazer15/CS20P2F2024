@@ -6,7 +6,7 @@ public class Digits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Please enter your class grades: ");
+        System.out.print("Please enter your number: ");
         int number = scanner.nextInt();
 
         int tens = number / 10;

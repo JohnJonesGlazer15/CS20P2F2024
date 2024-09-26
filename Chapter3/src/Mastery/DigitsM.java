@@ -1,13 +1,13 @@
 /*
 Program: java          Date: 9/13/2024
 
-Purpose: Do find the ones, tens, and hundreds place of a given number
+Purpose: To find the ones, tens, and hundreds place of a given number
 
 Author: Malik Muhieddine
 School: CHHS
 Course: Computer Science 20
- 
 */
+
 package Mastery;
 
 import java.util.Scanner;
