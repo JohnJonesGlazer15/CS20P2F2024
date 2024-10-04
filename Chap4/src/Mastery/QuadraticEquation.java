@@ -34,5 +34,8 @@ public class QuadraticEquation {
 
 /*
 Screen Dump
-
+Input a: 9
+Input b: 10
+Input c: 2
+The roots are -0.2615831876594899 and -0.8495279234516212
 */
