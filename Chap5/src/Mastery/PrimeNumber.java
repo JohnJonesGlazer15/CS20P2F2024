@@ -43,11 +43,6 @@ public class PrimeNumber {
 
 /*
 Screen Dump
-Enter the first number: 10
-Enter the second number: 20
-Prime numbers between 10 and 20 are:
-11
-13
-17
-19
+Enter a number: 10
+10 is not a prime number.
 */

@@ -3,10 +3,7 @@ package Mastery;
 import java.util.Random;
 import java.util.Scanner;
 
-public class GuessingGame 
-{
-	
-
+public class GuessingGame {
     public static void main(String[] args) {
     	        Scanner scanner = new Scanner(System.in);
     	        int secretNumber = 15; // You can set this to any number between 1 and 20 or randomize it if needed
@@ -29,12 +26,7 @@ public class GuessingGame
     	        
     	        scanner.close();
     	    }
-    	
-
     }
-
-
-
 /* 
 Screen Dump
 Guess a number between 1 and 20:
